@@ -1,0 +1,8 @@
+D:\DotNet\PHASE_2\Day-09\Assesment_09\bin\Debug\Assesment_09.exe.config
+D:\DotNet\PHASE_2\Day-09\Assesment_09\bin\Debug\Assesment_09.exe
+D:\DotNet\PHASE_2\Day-09\Assesment_09\bin\Debug\Assesment_09.pdb
+D:\DotNet\PHASE_2\Day-09\Assesment_09\obj\Debug\Assesment_09.csproj.AssemblyReference.cache
+D:\DotNet\PHASE_2\Day-09\Assesment_09\obj\Debug\Assesment_09.csproj.SuggestedBindingRedirects.cache
+D:\DotNet\PHASE_2\Day-09\Assesment_09\obj\Debug\Assesment_09.csproj.CoreCompileInputs.cache
+D:\DotNet\PHASE_2\Day-09\Assesment_09\obj\Debug\Assesment_09.exe
+D:\DotNet\PHASE_2\Day-09\Assesment_09\obj\Debug\Assesment_09.pdb
